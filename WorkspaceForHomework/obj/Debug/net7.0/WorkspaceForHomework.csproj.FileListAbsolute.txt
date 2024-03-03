@@ -1,0 +1,15 @@
+D:\JavierF\General\Visual Studio\CSharp\DeberesClase\WorkspaceForHomework\WorkspaceForHomework\bin\Debug\net7.0\WorkspaceForHomework.exe
+D:\JavierF\General\Visual Studio\CSharp\DeberesClase\WorkspaceForHomework\WorkspaceForHomework\bin\Debug\net7.0\WorkspaceForHomework.deps.json
+D:\JavierF\General\Visual Studio\CSharp\DeberesClase\WorkspaceForHomework\WorkspaceForHomework\bin\Debug\net7.0\WorkspaceForHomework.runtimeconfig.json
+D:\JavierF\General\Visual Studio\CSharp\DeberesClase\WorkspaceForHomework\WorkspaceForHomework\bin\Debug\net7.0\WorkspaceForHomework.dll
+D:\JavierF\General\Visual Studio\CSharp\DeberesClase\WorkspaceForHomework\WorkspaceForHomework\bin\Debug\net7.0\WorkspaceForHomework.pdb
+D:\JavierF\General\Visual Studio\CSharp\DeberesClase\WorkspaceForHomework\WorkspaceForHomework\obj\Debug\net7.0\WorkspaceForHomework.csproj.AssemblyReference.cache
+D:\JavierF\General\Visual Studio\CSharp\DeberesClase\WorkspaceForHomework\WorkspaceForHomework\obj\Debug\net7.0\WorkspaceForHomework.GeneratedMSBuildEditorConfig.editorconfig
+D:\JavierF\General\Visual Studio\CSharp\DeberesClase\WorkspaceForHomework\WorkspaceForHomework\obj\Debug\net7.0\WorkspaceForHomework.AssemblyInfoInputs.cache
+D:\JavierF\General\Visual Studio\CSharp\DeberesClase\WorkspaceForHomework\WorkspaceForHomework\obj\Debug\net7.0\WorkspaceForHomework.AssemblyInfo.cs
+D:\JavierF\General\Visual Studio\CSharp\DeberesClase\WorkspaceForHomework\WorkspaceForHomework\obj\Debug\net7.0\WorkspaceForHomework.csproj.CoreCompileInputs.cache
+D:\JavierF\General\Visual Studio\CSharp\DeberesClase\WorkspaceForHomework\WorkspaceForHomework\obj\Debug\net7.0\WorkspaceForHomework.dll
+D:\JavierF\General\Visual Studio\CSharp\DeberesClase\WorkspaceForHomework\WorkspaceForHomework\obj\Debug\net7.0\refint\WorkspaceForHomework.dll
+D:\JavierF\General\Visual Studio\CSharp\DeberesClase\WorkspaceForHomework\WorkspaceForHomework\obj\Debug\net7.0\WorkspaceForHomework.pdb
+D:\JavierF\General\Visual Studio\CSharp\DeberesClase\WorkspaceForHomework\WorkspaceForHomework\obj\Debug\net7.0\WorkspaceForHomework.genruntimeconfig.cache
+D:\JavierF\General\Visual Studio\CSharp\DeberesClase\WorkspaceForHomework\WorkspaceForHomework\obj\Debug\net7.0\ref\WorkspaceForHomework.dll
